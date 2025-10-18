@@ -1,7 +1,8 @@
 import type { Metadata } from "next"
 import { Inter } from "next/font/google"
 // ignore missing type declarations for global CSS side-effect import
-// @ts-expect-error - Next.js font import type mismatch
+// @ts-expect-error - CSS imports don't have type declarations
+
 
 import "./globals.css"
 
