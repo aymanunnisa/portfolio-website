@@ -1,9 +1,5 @@
 import type { Metadata } from "next"
 import { Inter } from "next/font/google"
-// ignore missing type declarations for global CSS side-effect import
-// @ts-expect-error - CSS imports don't have type declarations
-
-
 import "./globals.css"
 
 const inter = Inter({ subsets: ["latin"] })
