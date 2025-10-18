@@ -114,10 +114,10 @@ export default function Contact() {
 
         <div className="text-center">
           <p className="text-lg text-gray-700 mb-6">
-            I'm always interested in hearing about new research opportunities and collaborations.
+            I&apos;m always interested in hearing about new research opportunities and collaborations.
           </p>
           <a
-            href="mailto:aymanunnissa@gmail.com"
+            href="mailto:aymanunisaa@gmail.com"
             className="inline-block px-8 py-3 bg-blue-600 text-white rounded-lg font-semibold hover:bg-blue-700 transition-all duration-300 shadow-lg hover:shadow-xl"
           >
             Send me an Email
