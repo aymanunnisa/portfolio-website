@@ -26,7 +26,7 @@ export default function Contact() {
     {
       icon: Mail,
       label: "Email",
-      value: "aymanunisa@gmail.com",
+      value: "aymanunisaa@gmail.com",
       href: "mailto:aymanunisaa@gmail.com",
     },
     {
